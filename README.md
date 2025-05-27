@@ -1,7 +1,6 @@
 ![logo-vertical](https://github.com/user-attachments/assets/43ed6e06-cf96-42cc-926c-447246ed783c)
 
-# 📇 Firebase Bi![Uploading logo-vertical.png…]()
-odata App
+# 📇 Firebase Biodata App
 
 Aplikasi Android sederhana berbasis Java yang memungkinkan pengguna menambahkan, melihat, dan mengelola data biodata (nama, umur, jenis kelamin) menggunakan **Firebase Realtime Database**.
 
